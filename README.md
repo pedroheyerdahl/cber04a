@@ -2,6 +2,6 @@
 Earth observation with cbers 04a wpm data
 
 TO DO:
-- Pansharpen WPM Tiles
-- Update ground truth
-- Generate new tiles
+- Pansharpen WPM Scene
+- Update ground truth data
+- Generate new chips
