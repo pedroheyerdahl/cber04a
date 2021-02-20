@@ -5,3 +5,4 @@ TO DO:
 - Pansharpen WPM Scene
 - Update ground truth data
 - Generate new chips
+- How to choose a representative validation set?
